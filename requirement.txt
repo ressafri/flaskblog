@@ -1,0 +1,7 @@
+Flask==0.11
+<<<<<<< HEAD
+flask-sqlalchemy==2.1
+=======
+>>>>>>> 46565f3b3981b52e57684b7c301c7bb5a0813d8a
+gunicorn==19.6
+Flask-wtf==0.14
