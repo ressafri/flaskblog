@@ -12,5 +12,4 @@ ADD . .
 
 EXPOSE 80
 
-
 CMD ["gunicorn", "flaskblog:app", "-b", "0.0.0.0:80", "--workers", "4", "--reload"]
