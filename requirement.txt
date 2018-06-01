@@ -4,3 +4,4 @@ gunicorn==19.6
 Flask-wtf==0.14
 flask-bcrypt
 flask-login
+Pillow
